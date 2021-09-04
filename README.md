@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hüseyin Kaan Usta</h1>
 <h3 align="center">A passionate Backend developer from Turkey</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nightman413&show_icons=true&locale=en&layout=compact" alt="nightman413" /></p>
-
 - 🔭 I’m currently working as **freelancer**
 
 - 🌱 I’m currently learning **Node.js**
